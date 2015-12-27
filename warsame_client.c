@@ -2,8 +2,6 @@
  FILE      :  warsame_client.c
  PROGRAM   :  Network Applications
  AUTHOR    :  Warsame Egal
- DUE DATE  :  December 10, 2015
- COURSE    :  CST8234, Carolina Ayala
  PURPOSE   :  To create a Server – Client application over the network
 *****************************************************************************/
 
